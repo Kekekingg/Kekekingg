@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Erik Reyes 
-- 👀 I’m interested in learning about front end and back end practically and theoretically so I am new in all this world
-- 🌱 I’m currently learning front end, back end and JS code
-- 💞️ I’m looking to collaborate on communities where i can learn working together 
-- 📫 How to reach me, you can find me in...
+- 👋 Buenas, soy @Erik Reyes, me gusta que me llamen keke.
+- 👀 Soy egresado de mecatrónica pero actualmente estudio programación en fullstack con JavaScript.
+- 🌱 En ratos libres soy diseñador de piezas, practicante de jiu jitsu y jugador de videojuegos.
+- 💞️ Tratando de aprender lo mejor posible los conceptos de este mundo.
+
 
 <!---
 Kekekingg/Kekekingg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
