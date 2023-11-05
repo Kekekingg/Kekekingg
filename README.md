@@ -1,7 +1,7 @@
 - 👋 Buenas, soy @Erik Reyes, me gusta que me llamen keke.
 - 👀 Soy egresado de mecatrónica pero actualmente estudio programación en fullstack con JavaScript.
-- 🌱 En ratos libres soy diseñador de piezas, practicante de jiu jitsu y jugador de videojuegos.
-- 💞️ Tratando de aprender lo mejor posible los conceptos de este mundo.
+- 🌱 En ratos libres soy diseñador de piezas, practicante de artes marciales y jugador de videojuegos.
+- 💞️ Tratando de comprender lo macabro de la vida.
 
 
 <!---
