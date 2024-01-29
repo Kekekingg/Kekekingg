@@ -1,5 +1,5 @@
 - 👋 Buenas, soy @Erik Reyes, me gusta que me llamen keke.
-- 👀 Soy egresado de mecatrónica pero actualmente estudio programación en fullstack con JavaScript.
+- 👀 Soy ingeniero mecatrónico, pero actualmente estudio programación en fullstack con JavaScript.
 - 🌱 En ratos libres soy diseñador de piezas, practicante de artes marciales y jugador de videojuegos.
 - 💞️ Tratando de comprender lo macabro de la vida.
 
