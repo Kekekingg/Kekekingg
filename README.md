@@ -40,27 +40,19 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 ## 📂 Featured Projects
 - [**GuitarLA-Ts**](guitar-la-keke.netlify.app) – Online store built with React + TypeScript, state management, and responsive design.  
 - [**Tip Calculator**](calculadora-propinas-keke.netlify.app) – Practical app with TypeScript, focused on logic and clean UI.  
-- [**Meta Front-End Capstone Project**](little-lemon-capstone-final.netlify.app) – Final project from the Meta Front-End Developer Program (Coursera), applying React, responsive design, and modern UI practices.  
-- - [**FestivalMusica**](festivaltech.netlify.app) – Landing page with SASS and NPM, optimized for performance.
+- [**Meta Front-End Capstone Project**](little-lemon-capstone-final.netlify.app) – Final project from the Meta Front-End Developer Program (Coursera), applying React, responsive design, and modern UI practices.
+- [**FestivalMusica**](festivaltech.netlify.app) – Landing page with SASS and NPM, optimized for performance.
 
 *(You can find more projects in my repositories, all documented with visual examples.)*
 
 ---
 
 ## 🏆 Achievements & Certifications
--
 - Meta Front-End Developer – Coursera  
 - Full-Stack Development – TecMilenio     
 - CAD Designer – Vanguardia Academia  
 
 ---
-
-## 🌍 Languages
-- Spanish (native)  
-- English (advanced, technical and professional)
-
----
-
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/erik-reyes)  
 - [Email](erikmreyesm@gmail.com)
