@@ -16,7 +16,7 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 - **Languages:** JavaScript (ES6+), TypeScript (basic)
 - **Front-End:** React, Tailwind CSS, Vite, HTML5, CSS3
 - **Databases:** SQL, MySQL 
-- **Tools:** Git/GitHub, NPM, Docker (basic)  
+- **Tools:** Git, NPM, Docker (basic)  
 - **Other:** Responsive Design, UI Optimization, Bilingual technical documentation (EN/ES)
 
 ---
