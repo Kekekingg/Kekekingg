@@ -49,8 +49,7 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 
 ## 🏆 Achievements & Certifications
 - Meta Front-End Developer – Coursera  
-- Full-Stack Development – TecMilenio     
-- CAD Designer – Vanguardia Academia  
+- Full-Stack Development – TecMilenio  
 
 ---
 ## 📫 Contact
