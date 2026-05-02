@@ -7,16 +7,17 @@
 
 ## 🧑‍💻 Who I am
 I am a Mechatronics Engineer with 2 years of intensive training in programming.  
-Certified in the **Meta Front-End Developer Program (Coursera)**, I have built practical projects using **React, TypeScript, Tailwind CSS, and Vite**.  
+Certified in the **Meta Front-End Developer Program (Coursera)**, I have built practical projects using **React, PHP, SCSS, GULP and Composer for dependency management and modular architecture**.  
 My goal is to grow as a junior developer, contributing modern and scalable solutions while continuously learning in collaborative environments.
 
 ---
 
 ## 🚀 Technical Skills
-- **Languages:** JavaScript (ES6+), TypeScript (basic)
-- **Front-End:** React, Tailwind CSS, Vite, HTML5, CSS3
-- **Databases:** SQL, MySQL 
-- **Tools:** Git, NPM, Docker (basic)  
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Front-End:** React, SCSS, GULP, HTML5, CSS3
+- **Databases:** SQL, MySQL
+- **Back-End:** PHP, Laravel, Node.js 
+- **Tools:** Git, NPM, Docker  
 - **Other:** Responsive Design, UI Optimization, Bilingual technical documentation (EN/ES)
 
 ---
