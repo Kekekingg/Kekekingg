@@ -3,7 +3,7 @@
 🎓 Mechatronics Engineer | 💻 Junior Front-End Developer  
 📍 Durango, Mexico | 🌍 Seeking remote opportunities in programming
 
----
+<hr style="border: 2px solid #4CAF50;"/>
 
 ## 🧑‍💻 Who I am
 I am a Mechatronics Engineer with 2 years of intensive training in programming.  
