@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Erik Reyes (Keke)
+# 👋 Hi, I'm Erik Reyes 
 
 🎓 Mechatronics Engineer | 💻 Junior Front-End Developer  
 📍 Durango, Mexico | 🌍 Seeking remote opportunities in programming
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 
 ---
 
