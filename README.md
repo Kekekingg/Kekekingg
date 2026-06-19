@@ -9,6 +9,7 @@
 I am a Mechatronics Engineer with 2 years of intensive training in programming.  
 Certified in the **Meta Front-End Developer Program (Coursera)**, I have built practical projects using **React, PHP, SCSS, GULP and Composer for dependency management and modular architecture**.  
 My goal is to grow as a junior developer, contributing modern and scalable solutions while continuously learning in collaborative environments.
+
 <img width="498" height="374" alt="AnimeCyberpunkGIF (2)" src="https://github.com/user-attachments/assets/b0b568da-5277-4707-9f80-29cd35026294" />
 
 
