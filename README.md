@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 Who I am
+## 🧑‍💻 About Me
 I am a Mechatronics Engineer with 2 years of intensive training in programming.  
 Certified in the **Meta Front-End Developer Program (Coursera)**, I have built practical projects using **React, PHP, SCSS, GULP and Composer for dependency management and modular architecture**.  
 My goal is to grow as a junior developer, contributing modern and scalable solutions while continuously learning in collaborative environments.
@@ -22,6 +22,11 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 - **Back-End:** PHP, Laravel, Node.js 
 - **Tools:** Git, NPM, Docker  
 - **Other:** Responsive Design, UI Optimization, Bilingual technical documentation (EN/ES)
+
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 ---
 
