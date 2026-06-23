@@ -16,19 +16,39 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 ---
 
 ## 🚀 Technical Skills
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Front-End:** React, SCSS, GULP, HTML5, CSS3
-- **Databases:** SQL, MySQL
-- **Back-End:** PHP, Laravel, Node.js 
-- **Tools:** Git, NPM, Docker  
-- **Other:** Responsive Design, UI Optimization, Bilingual technical documentation (EN/ES)
+## 🚀 Technical Skills
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+**Front-End:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
----
+**Databases:**  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Back-End:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+**Other:**  
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?logo=googlechrome&logoColor=white)
+![UI Optimization](https://img.shields.io/badge/UI%20Optimization-FF6F00?logo=google&logoColor=white)
+![Bilingual Docs](https://img.shields.io/badge/EN%2FES%20Docs-000000?logo=markdown&logoColor=white)
+
 
 ## 🎓 Education - B.S. in Mechatronics Engineering – [Instituto Tecnológico de la Laguna]
 
