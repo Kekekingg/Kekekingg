@@ -16,7 +16,6 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 ---
 
 ## 🚀 Technical Skills
-## 🚀 Technical Skills
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
