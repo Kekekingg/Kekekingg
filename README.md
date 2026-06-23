@@ -42,9 +42,12 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 ---
 
 ## 📂 Featured Projects
-- [**🏠Barbershop MVC App**](https://realstate-app.alwaysdata.net) - Web platform built with **PHP & MySQL** for property, user, and seller management. Includes secure authentication, full CRUD for listings, and a professional layout to showcase properties. Designed to simulate a real estate agency environment with forms, validations, and an admin dashboard.
-- [**💈Barbershop MVC App**](barbershop-app-mvc.alwaysdata.net) - Web application built with **PHP & MySQL** for barbershop scheduling and service management. Includes account creation, appointment booking, and secure CRUD operations for clients and services. Designed to provide a modern barbershop experience with session-based authentication, input validation, and an admin dashboard.
-- [**Meta Front-End Capstone Project**](little-lemon-capstone-final.netlify.app) – Final project from the Meta Front-End Developer Program (Coursera), applying React, responsive design, and modern UI practices.
+- [**🏠 Real Estate MVC App**](https://realstate-app.alwaysdata.net) - Web platform built with **PHP & MySQL** for property, user, and seller management. Includes secure authentication, full CRUD for listings, and a professional layout to showcase properties. Designed to simulate a real estate agency environment with forms, validations, and an admin dashboard.
+
+- [**💈 Barbershop MVC App**](https://barbershop-app-mvc.alwaysdata.net) - Web application built with **PHP & MySQL** for barbershop scheduling and service management. Includes account creation, appointment booking, and secure CRUD operations for clients and services. Designed to provide a modern barbershop experience with session-based authentication, input validation, and an admin dashboard.
+
+- [**Meta Front-End Capstone Project**](https://little-lemon-capstone-final.netlify.app) – Final project from the Meta Front-End Developer Program (Coursera), applying React, responsive design, and modern UI practices.
+
 
 *(You can find more projects in my repositories, all documented with visual examples.)*
 
