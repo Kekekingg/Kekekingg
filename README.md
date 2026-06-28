@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Erik Reyes 
 
 🎓 Mechatronics Engineer | 💻 Junior Front-End Developer  
-📍 Durango, Mexico | 🌍 Seeking remote opportunities in programming
+📍 Mexico | 🌍 Seeking remote opportunities in programming
 
 ---
 
@@ -51,7 +51,8 @@ My goal is to grow as a junior developer, contributing modern and scalable solut
 ---
 
 ## 🛠️ Professional Experience
-- **Internship at ZF Occupant Safety Systems**  
+- **Internship at ZF Occupant Safety Systems**
+  - Internship in a manufacturing environment, where I also developed technical documentation processes
   - CAD redesign of parts (SolidWorks).  
   - Bilingual technical documentation for manufacturing processes.  
   - Support in airbag assembly production lines.  
